@@ -17,4 +17,13 @@ Git commands with brief description:
 
 8. `git diff commit1 commit2`: gives the difference between the two commits.
 
+9. `git remote`: lists down all the remote connection names. Remote connections helps you to link two repositories together for uploading & dowloading changes to each other.
+
+10. `git remote add <name_of_the_remote> <link_of_the_remote>`: it helps us to add a new link to the remote repo and give it a name.
+
+11. `git remote rm <name_of_remote>`: it removes the remote connection.
+
+12.`git remote rename <old_name> <new_name>`: it renames the remote connection.
+
+**Note: the name of the remote connection is always used to establish communication between the repos.
 
