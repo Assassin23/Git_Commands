@@ -25,5 +25,7 @@ Git commands with brief description:
 
 12.`git remote rename <old_name> <new_name>`: it renames the remote connection.
 
-**Note: the name of the remote connection is always used to establish communication between the repos.
+Note: the name of the remote connection is always used to establish communication between the repos.
+
+13. `git pull <remote_name> <branch_name>`: it downloads latest changes from the branch of the mentioned remote to your local repo.
 
